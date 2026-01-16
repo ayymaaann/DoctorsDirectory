@@ -1,0 +1,4790 @@
+[
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Khanna",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 7,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Orthopedic",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Verma",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Malhotra",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Mehta",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 5,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Singh",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 19,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Khanna",
+    "specialization": "ENT",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Malhotra",
+    "specialization": "Pediatrician",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 20,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Jain",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 13,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 5,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Singh",
+    "specialization": "ENT",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 7,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 6,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Pediatrician",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 25,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Malhotra",
+    "specialization": "Physician",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 15,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Gupta",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 5,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 24,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Mehta",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 12,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Singh",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 19,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 12,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Khanna",
+    "specialization": "ENT",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 12,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Singh",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Verma",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Gupta",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Mehta",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Singh",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 9,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Malhotra",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Jain",
+    "specialization": "ENT",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Gynecologist",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 25,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Gupta",
+    "specialization": "ENT",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 23,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 5,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Verma",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Verma",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 20,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Singh",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 14,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Verma",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialization": "Pediatrician",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 6,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Jain",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "Physician",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Verma",
+    "specialization": "Orthopedic",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Mehta",
+    "specialization": "Orthopedic",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 19,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "specialization": "Neurologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 19,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 23,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Pediatrician",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 16,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Verma",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 9,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Khanna",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 7,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 6,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Malhotra",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Singh",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 15,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 15,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Mehta",
+    "specialization": "Orthopedic",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Gupta",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 22,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Khanna",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 14,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 14,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 20,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 18,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Jain",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 22,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Singh",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Verma",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 15,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Khanna",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Jain",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Pediatrician",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 9,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 20,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 15,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Singh",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 17,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Physician",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 8,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Mehta",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 9,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 11,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Gupta",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Verma",
+    "specialization": "ENT",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Singh",
+    "specialization": "Neurologist",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 17,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 12,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Jain",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 19,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 5,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Jain",
+    "specialization": "Cardiologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Khanna",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 15,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Mehta",
+    "specialization": "Neurologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 13,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "specialization": "ENT",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 19,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 11,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Verma",
+    "specialization": "Pediatrician",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 14,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Khanna",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 15,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Neurologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Khanna",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Mehta",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Jain",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 18,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "specialization": "Pediatrician",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Orthopedic",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 10,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 19,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "Cardiologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Gupta",
+    "specialization": "ENT",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 7,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Khanna",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Jain",
+    "specialization": "Neurologist",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Mehta",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Physician",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "specialization": "Neurologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Verma",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 14,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Mehta",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Singh",
+    "specialization": "Dermatologist",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 5,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Singh",
+    "specialization": "Orthopedic",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "specialization": "Neurologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Verma",
+    "specialization": "ENT",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 17,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "ENT",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 25,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Gupta",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 11,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "Dermatologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Jain",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 8,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 17,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 9,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 13,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 18,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 10,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 13,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Mehta",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Mehta",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 14,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Verma",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 24,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 5,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Gupta",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Gupta",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 10,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Singh",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Verma",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 6,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Jain",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 17,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Singh",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 10,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Sharma",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 12,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 24,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Gupta",
+    "specialization": "Orthopedic",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 25,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Physician",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Khanna",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 25,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 25,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 8,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Sharma",
+    "specialization": "Physician",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 14,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Malhotra",
+    "specialization": "Neurologist",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Gupta",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 16,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Singh",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Singh",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 23,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 9,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Mehta",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 25,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Pediatrician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 15,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "ENT",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Jain",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 18,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Verma",
+    "specialization": "Orthopedic",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Dermatologist",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Verma",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Jain",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 15,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "specialization": "Pediatrician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 5,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Malhotra",
+    "specialization": "Orthopedic",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 22,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Mehta",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 13,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Jain",
+    "specialization": "Gynecologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Singh",
+    "specialization": "Dermatologist",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 9,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "ENT",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Verma",
+    "specialization": "Dermatologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Mehta",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Sharma",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 25,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 10,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "ENT",
+    "city": "Faridabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 17,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Verma",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 19,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Malhotra",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 8,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "ENT",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 25,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Neurologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 24,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Singh",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 25,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "specialization": "Cardiologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 9,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Jain",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 25,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Physician",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 17,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Khanna",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 7,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Sharma",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Khanna",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Singh",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 8,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Sharma",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 19,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 15,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 20,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Jain",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 14,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 6,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Singh",
+    "specialization": "Orthopedic",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 18,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 10,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Khanna",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 17,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Verma",
+    "specialization": "ENT",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 9,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 16,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 12,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Jain",
+    "specialization": "Physician",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 25,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Khanna",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 5,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Verma",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Mehta",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 23,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Mehta",
+    "specialization": "Orthopedic",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Mehta",
+    "specialization": "Neurologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 9,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Khanna",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 16,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Pediatrician",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 22,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Gupta",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 14,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Jain",
+    "specialization": "Orthopedic",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 6,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Gupta",
+    "specialization": "Cardiologist",
+    "city": "Okhla",
+    "education": "MBBS, DNB",
+    "experience": 14,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Khanna",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Khanna",
+    "specialization": "Pediatrician",
+    "city": "Faridabad",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Khanna",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Verma",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 12,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Jain",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Jain",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 5,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Sharma",
+    "specialization": "Pediatrician",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 24,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Singh",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "ENT",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Mehta",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 9,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Jain",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, MS",
+    "experience": 19,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 14,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Singh",
+    "specialization": "Orthopedic",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+    "specialization": "Physician",
+    "city": "Faridabad",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Physician",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Verma",
+    "specialization": "ENT",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 20,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Jain",
+    "specialization": "Dermatologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "Dermatologist",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 14,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Verma",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 6,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Jain",
+    "specialization": "ENT",
+    "city": "Okhla",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 21,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Verma",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD",
+    "experience": 10,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Jain",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 12,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Malhotra",
+    "specialization": "Physician",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 24,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Singh",
+    "specialization": "Orthopedic",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 6,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 22,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Singh",
+    "specialization": "Gynecologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 14,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Jain",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 25,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Gupta",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 18,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Sharma",
+    "specialization": "Cardiologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 18,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Khanna",
+    "specialization": "Physician",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 7,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Verma",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 19,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Kavita Malhotra",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 19,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Khanna",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 12,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Gupta",
+    "specialization": "Dermatologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Jain",
+    "specialization": "Cardiologist",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 8,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Gupta",
+    "specialization": "Orthopedic",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 11,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Cardiologist",
+    "city": "Okhla",
+    "education": "MBBS, MS",
+    "experience": 20,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Sharma",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MD",
+    "experience": 20,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Orthopedic",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 5,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Malhotra",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MS",
+    "experience": 13,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "Physician",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 17,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Pooja Singh",
+    "specialization": "Physician",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 15,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sunita Sharma",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, MD",
+    "experience": 22,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Singh",
+    "specialization": "Pediatrician",
+    "city": "Delhi",
+    "education": "MBBS, DNB",
+    "experience": 10,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "Cardiologist",
+    "city": "Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 6,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Orthopedic",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 15,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Jain",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Sharma",
+    "specialization": "Neurologist",
+    "city": "Okhla",
+    "education": "MBBS, MD",
+    "experience": 8,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "specialization": "Neurologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 23,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Cardiologist",
+    "city": "Greater Noida",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 22,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 17,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Anil Jain",
+    "specialization": "Gynecologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 19,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "ENT",
+    "city": "Ghaziabad",
+    "education": "MBBS, DNB",
+    "experience": 20,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Max Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Singh",
+    "specialization": "Gynecologist",
+    "city": "Delhi",
+    "education": "MBBS, MS",
+    "experience": 17,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialization": "Neurologist",
+    "city": "Delhi",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 7,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Malhotra",
+    "specialization": "ENT",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 5,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Verma",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MD (Specialist)",
+    "experience": 24,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "AIIMS Delhi",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rakesh Malhotra",
+    "specialization": "Gynecologist",
+    "city": "Faridabad",
+    "education": "MBBS, MD",
+    "experience": 19,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Sanjay Jain",
+    "specialization": "Dermatologist",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 9,
+    "about": "Known for patient-centric and ethical medical care.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Amit Khanna",
+    "specialization": "Pediatrician",
+    "city": "Greater Noida",
+    "education": "MBBS, DNB",
+    "experience": 13,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Safdarjung Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Kailash Hospital",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Neha Verma",
+    "specialization": "Physician",
+    "city": "Ghaziabad",
+    "education": "MBBS, MS",
+    "experience": 21,
+    "about": "Has extensive experience treating patients across Delhi NCR.",
+    "locations": [
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      },
+      {
+        "hospital": "Apollo Hospitals",
+        "type": "Private"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Vikas Khanna",
+    "specialization": "Gynecologist",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 21,
+    "about": "Experienced specialist handling complex clinical cases.",
+    "locations": [
+      {
+        "hospital": "Fortis Hospital",
+        "type": "Private"
+      },
+      {
+        "hospital": "GTB Hospital",
+        "type": "Government"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Rajesh Mehta",
+    "specialization": "Orthopedic",
+    "city": "Noida",
+    "education": "MBBS, DNB",
+    "experience": 15,
+    "about": "Works across multiple government and private hospitals.",
+    "locations": [
+      {
+        "hospital": "Yashoda Hospital",
+        "type": "Private"
+      }
+    ]
+  }
+]

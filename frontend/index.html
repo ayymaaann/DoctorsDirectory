@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Doctor’s Directory</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+<section id="intro">
+  <div class="intro-content">
+    <h1>Doctor’s Directory</h1>
+    <p>Delhi NCR • Govt & Private Doctors</p>
+    <span class="scroll-text">Scroll to continue ↓</span>
+  </div>
+</section>
+
+<header>
+  <h1>Doctor’s Directory</h1>
+  <p class="subtitle">Delhi NCR • Govt & Private Doctors</p>
+  <p class="byline">~ by Aymaan</p>
+
+  <div class="filters">
+    <input type="text" id="searchInput" placeholder="Search doctor or specialization">
+    <select id="cityFilter">
+      <option value="all">All Cities</option>
+      <option value="Delhi">Delhi</option>
+      <option value="Noida">Noida</option>
+      <option value="Ghaziabad">Ghaziabad</option>
+      <option value="Faridabad">Faridabad</option>
+      <option value="Greater Noida">Greater Noida</option>
+      <option value="Okhla">Okhla</option>
+    </select>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<!-- MODAL -->
+<div id="doctorModal" class="modal hidden">
+  <div class="modal-content">
+    <span id="closeModal">&times;</span>
+    <h2 id="modalName"></h2>
+    <p id="modalSpec"></p>
+    <p id="modalEdu"></p>
+    <p id="modalExp"></p>
+    <p id="modalAbout"></p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
